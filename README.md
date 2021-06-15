@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm P danussh</h1>
 <h3 align="center">A passionate Full stack developer....</h3>
 
-- 🔭 I’m currently Intern in **Guvi-IIT Madras**
+- 🔭 I’m currently a Full Stack Developer In <a href="https://www.ilink-digital.com/" target="blank">Ilink Digital</a>
 
-- 🌱 I’m currently learning **react Js**
+- 🌱 In LOve With **react Js**
 
 - 👨‍💻 All of my projects are available at [https://danusshpportfolio.netlify.app/](https://danusshpportfolio.netlify.app/)
 
-- 💬 Ask me about **react javascript Html css nodejs**
+- 💬 Ask me about **react javascript Html css nodejs react-hooks**
 
 - 📫 How to reach me **pdanussh1997@gmail.com**
 
