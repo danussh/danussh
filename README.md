@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Full Stack Developer In <a href="https://www.athenahealth.com/" target="blank">Athenahealth</a>
 
-- 🌱 In LOve With **react Js**
+- 🌱 In Love With **react Js**
 
 - 👨‍💻 All of my projects are available at [https://danusshpportfolio.netlify.app/](https://danusshpportfolio.netlify.app/)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c8LLlJjmcKylox1QVDeyc2ZaHnDgVk4L/view](https://drive.google.com/file/d/1PhVkgQXsS74jZLq5cc4Lcu9mhvpKJn0M/view)
 
-- ⚡ Fun fact **I think i am Funny**
+- ⚡ Fun fact **I Am Finally a Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
