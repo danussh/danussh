@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pdanussh1997@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1c8LLlJjmcKylox1QVDeyc2ZaHnDgVk4L/view](https://drive.google.com/file/d/14LTQfcTuZmRdtRxmOQttgyrUDShV7ENN/view?usp=sharing)](https://drive.google.com/file/d/1PhVkgQXsS74jZLq5cc4Lcu9mhvpKJn0M/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1c8LLlJjmcKylox1QVDeyc2ZaHnDgVk4L/view]
 
 - ⚡ Fun fact **I Am Finally a Developer**
 
